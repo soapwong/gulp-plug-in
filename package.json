@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gulp": "3.9"
+  },
+  "scripts": {
+    "build": "gulp"
+  }
+}
